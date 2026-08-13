@@ -30,7 +30,7 @@ The dashboard contains four sections:
 ## 🛠️ Tools
 - Python
 - Pandas
-- Jupyter Notebook
+- Google Colab
 - Power BI
 
 ## 📂 Project Structure
